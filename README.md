@@ -102,7 +102,7 @@ The work started from a **randomly generated data matrix**, where **means, stand
 The covariance and correlation matrices were generated using Excel's conditional formatting.
 
 *Example of the Excel results:*  
-![Excel Results](7c8b4c57-615d-4290-ab4d-cf71d92c1d3c.png)
+![Excel Results](Excel.png)
 
 ---
 
