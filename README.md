@@ -20,7 +20,7 @@ As matrizes de covariância e correlação foram geradas a partir da formataçã
 
 
  *Exemplo dos resultados no Excel:*  
-![Resultados no Excel](Excel.png)
+![alt text](Excel.png)
 
 ---
 
@@ -30,7 +30,7 @@ O mesmo conjunto de dados foi utilizado em Python para:
 - Comparar junto com um **heatmap de correlação** que foi criado com o **Seaborn** em outro código, permitindo visualizar a força e o sentido das relações entre as variáveis.
 
  *Exemplo do heatmap gerado (em outro código):*  
-![Heatmap de Correlação](cmap.png)
+![alt text](cmap.png)
 
 ---
 
@@ -102,7 +102,7 @@ The work started from a **randomly generated data matrix**, where **means, stand
 The covariance and correlation matrices were generated using Excel's conditional formatting.
 
 *Example of the Excel results:*  
-![Excel Results](Excel.png)
+![alt text](Excel.png)
 
 ---
 
@@ -112,7 +112,7 @@ The same dataset was used in Python to:
 - Compare results with a **correlation heatmap** created using **Seaborn** in another script, allowing visualization of the strength and direction of the relationships between variables.
 
  *Example of the generated heatmap (in a separate code):*  
-![Correlation Heatmap](cmap.png)
+![alt text](cmap-1.png)
 
 ---
 
